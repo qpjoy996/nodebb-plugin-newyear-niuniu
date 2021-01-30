@@ -1,0 +1,27 @@
+{
+    "name": "nodebb-plugin-newyear-niuniu",
+    "version": "0.0.3",
+    "description": "Happy new year",
+    "main": "library.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/qpjoy996/nodebb-plugin-newyear-niuniu"
+    },
+    "keywords": [
+        "nodebb",
+        "plugin",
+        "newyear"
+    ],
+    "author": {
+        "name": "qpjoy",
+        "email": "qpjoy996@163.com"
+    },
+    "license": "BSD-2-Clause",
+    "bugs": {
+        "url": "https://github.com/qpjoy996/nodebb-plugin-newyear-niuniu/issues"
+    },
+    "readmeFilename": "README.md",
+    "nbbpm": {
+        "compatibility": "^1.0.0"
+    }
+}

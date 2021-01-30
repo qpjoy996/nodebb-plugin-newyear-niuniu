@@ -1,0 +1,13 @@
+{
+  "id": "nodebb-plugin-newyear-niuniu",
+  "name": "NodeBB Avatar Newyear",
+  "description": "Happy new year",
+  "url": "https://github.com/qpjoy996/nodebb-plugin-newyear-niuniu",
+  "library": "./library.js",
+  "hooks": [],
+  "staticDirs": {
+    "static": "./static"
+  },
+  "less": ["static/style.less"],
+  "scripts": ["static/lib/main.js"]
+}
