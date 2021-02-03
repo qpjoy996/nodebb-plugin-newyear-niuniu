@@ -4,7 +4,12 @@
   "description": "Happy new year",
   "url": "https://github.com/qpjoy996/nodebb-plugin-newyear-niuniu",
   "library": "./library.js",
-  "hooks": [],
+  "hooks": [
+    {
+      "hook": "static:app.load",
+      "method": "init"
+    }
+  ],
   "staticDirs": {
     "static": "./static"
   },
