@@ -1,10 +1,10 @@
 var plugin = {};
 async function renderNewyear(req, res) {
-  res.render("christmas", {});
+  res.render("new year", {});
 }
 
 plugin.init = async function (params) {
-  console.log("Avatar info", `christmas init`);
+  console.log("Avatar info", `new year init`);
   var app = params.router,
     middleware = params.middleware;
 

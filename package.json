@@ -1,6 +1,6 @@
 {
     "name": "nodebb-plugin-newyear-niuniu",
-    "version": "1.0.0",
+    "version": "2.0.1",
     "description": "Happy new year",
     "main": "library.js",
     "repository": {
