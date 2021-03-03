@@ -6,14 +6,14 @@ $("document").ready(function () {
   $(document.body).append(fuzi, shizi);
   $(".fuziImg").css({
     width: "250px",
-    position: "absolute",
+    position: "fixed",
     top: "-33px",
     left: "30px",
     zIndex: "9999",
   });
   $(".shiziImg").css({
     width: "250px",
-    position: "absolute",
+    position: "fixed",
     bottom: "0",
     right: "30px",
   });
